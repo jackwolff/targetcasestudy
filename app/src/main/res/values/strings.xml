@@ -1,0 +1,25 @@
+<resources>
+  <string name="app_name">TargetCaseStudy</string>
+
+  <string name="product_accessibility_description">Product Image</string>
+
+  <string name="add_to_list">add to list</string>
+  <string name="add_to_cart">add to cart</string>
+
+  <string name="ship">ship</string>
+  <string name="or">or</string>
+
+  <string name="generic_error_message">We couldn\'t connect, check your internet connection or try again later.</string>
+
+  <string name="regular_price">Reg: %1$s</string>
+
+  <string name="deals">Deals</string>
+  <string name="product_detail">Product Detail</string>
+
+  <!-- Credit card validation strings. You do not need to make changes here. -->
+  <string name="credit_card_payment_title">Credit Card Payment</string>
+  <string name="credit_card_payment_subtitle">Note: you do NOT need to enter real data</string>
+  <string name="submit">Submit</string>
+  <string name="cancel">Cancel</string>
+  <string name="credit_card_number_hint">Credit card number</string>
+</resources>
